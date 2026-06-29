@@ -1,0 +1,533 @@
+canonical_identifier: bkk:krp/KR3er003/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er003/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 全體病源類纂
+  identifiers:
+    krp: KR3er003
+  tags:
+    kr-categories: KR3er
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er003.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er003_000-jc.yaml, hash: 'sha256:5082409ac9de92c7d5345f588974d5281ac1814be003bfe3d0629127f9ec63fa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er003_000-jc.markers.yaml, hash: 'sha256:58dc75dcf41611dfa57fde423b9e2b78a869ad7992f9a1a4eefecf8541bfce5e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 11782
+  label: 五藏六府諸病第一篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d2
+    span:
+    - body
+    - 9
+    - 792
+  label: 肝藏說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d3
+    span:
+    - body
+    - 792
+    - 1303
+  label: 膽府說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d4
+    span:
+    - body
+    - 1303
+    - 2277
+  label: 心藏說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d5
+    span:
+    - body
+    - 2277
+    - 2635
+  label: 小腸府說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d6
+    span:
+    - body
+    - 2635
+    - 3590
+  label: 脾藏說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d7
+    span:
+    - body
+    - 3590
+    - 4639
+  label: 胃府說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d8
+    span:
+    - body
+    - 4639
+    - 6245
+  label: 肺藏說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d9
+    span:
+    - body
+    - 6245
+    - 6738
+  label: 大腸府說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d10
+    span:
+    - body
+    - 6738
+    - 8012
+  label: 腎藏說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d11
+    span:
+    - body
+    - 8012
+    - 8424
+  label: 膀胱府說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d12
+    span:
+    - body
+    - 8424
+    - 9364
+  label: 三焦府說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d13
+    span:
+    - body
+    - 9364
+    - 9650
+  label: 心胞絡說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d14
+    span:
+    - body
+    - 9650
+    - 9664
+  label: 手足十二經及十二經筋病第二篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d15
+    span:
+    - body
+    - 9664
+    - 9803
+  label: 足厥陰經病肝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d16
+    span:
+    - body
+    - 9803
+    - 10036
+  label: 足少陽經病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d17
+    span:
+    - body
+    - 10036
+    - 10181
+  label: 手少陰經病心
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d18
+    span:
+    - body
+    - 10181
+    - 10348
+  label: 手太陽經病小腸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d19
+    span:
+    - body
+    - 10348
+    - 10500
+  label: 足太陰經病脾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d20
+    span:
+    - body
+    - 10500
+    - 10853
+  label: 足陽明經病胃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d21
+    span:
+    - body
+    - 10853
+    - 10986
+  label: 手太陰經病肺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d22
+    span:
+    - body
+    - 10986
+    - 11127
+  label: 手陽明經病大腸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d23
+    span:
+    - body
+    - 11127
+    - 11341
+  label: 足少陰經病腎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d24
+    span:
+    - body
+    - 11341
+    - 11536
+  label: 足太陽經病膀胱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d25
+    span:
+    - body
+    - 11536
+    - 11665
+  label: 手少陽三焦經病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d2d26
+    span:
+    - body
+    - 11665
+    - 11782
+  label: 手厥陰心包絡經病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3.h1s1
+    span:
+    - body
+    - 11782
+    - 15594
+  label: 奇經八脈病第三篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d2
+    span:
+    - body
+    - 11790
+    - 12138
+  label: 八脈總論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d3
+    span:
+    - body
+    - 12138
+    - 12783
+  label: 二維脈病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d4
+    span:
+    - body
+    - 12783
+    - 13496
+  label: 二蹺脈病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d5
+    span:
+    - body
+    - 13496
+    - 14293
+  label: 衝脈病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d6
+    span:
+    - body
+    - 14293
+    - 14795
+  label: 任脈病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d7
+    span:
+    - body
+    - 14795
+    - 15220
+  label: 督脈病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d3d8
+    span:
+    - body
+    - 15220
+    - 15594
+  label: 帶脈病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d4.h1s1
+    span:
+    - body
+    - 15594
+    - 17833
+  label: 宗氣衛氣營氣病第四篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d4d2
+    span:
+    - body
+    - 15604
+    - 16341
+  label: 宗衛營三氣解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d4d3
+    span:
+    - body
+    - 16341
+    - 16500
+  label: 宗氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d4d4
+    span:
+    - body
+    - 16500
+    - 17036
+  label: 衛氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d4d5
+    span:
+    - body
+    - 17036
+    - 17833
+  label: 營氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d5.h1s1
+    span:
+    - body
+    - 17833
+    - 20609
+  label: 皮肉筋骨病第五篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d5d2
+    span:
+    - body
+    - 17841
+    - 18690
+  label: 皮病一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d5d3
+    span:
+    - body
+    - 18690
+    - 19244
+  label: 肉病二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d5d4
+    span:
+    - body
+    - 19244
+    - 19829
+  label: 筋病三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d5d5
+    span:
+    - body
+    - 19829
+    - 20609
+  label: 骨病四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6.h1s1
+    span:
+    - body
+    - 20609
+    - 25153
+  label: 附六淫病第六篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6d4
+    span:
+    - body
+    - 20622
+    - 21944
+  label: 風淫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6d5
+    span:
+    - body
+    - 21944
+    - 22288
+  label: 寒淫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6d6
+    span:
+    - body
+    - 22288
+    - 22876
+  label: 暑淫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6d7
+    span:
+    - body
+    - 22876
+    - 23771
+  label: 濕淫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6d8
+    span:
+    - body
+    - 23771
+    - 24444
+  label: 燥淫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er003_jc_000-d6d9
+    span:
+    - body
+    - 24444
+    - 25153
+  label: 火淫
+  type: section
+  level: 2
+hash: sha256:78ccaa41043124ca9039af349f6271793202727ab0b4cf73454b814ad53cc833
