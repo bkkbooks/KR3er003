@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er003_000.yaml, hash: 'sha256:423113b39c2e24493f7f8d680af78463d51a76db1ff132945eba73b421502e54'}
+  - {seq: 0, filename: KR3er003_000.yaml, hash: 'sha256:5082409ac9de92c7d5345f588974d5281ac1814be003bfe3d0629127f9ec63fa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er003_000.markers.yaml, hash: 'sha256:6311da159d0961aa7f5dff593bb60e9e144de41836106990632cb12ed4582988'}
+  - {seq: 0, role: markers, filename: assets/KR3er003_000.markers.yaml, hash: 'sha256:f6af15929d80e6a13d8fb52b5eb57054acb7d454b82aff1a08e5c6b7e32d8518'}
 table_of_contents:
 - ref:
     seq: 0
@@ -530,7 +530,4 @@ table_of_contents:
   label: 火淫
   type: section
   level: 2
-hash: sha256:1a349dfad296d1522fb188c100ff6f6df7123a8e86579ded15d71624288061c8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:44b965f8077c9ba2aa6ff1a177df4654b9aacacb159a907927d8fc98badfc180
