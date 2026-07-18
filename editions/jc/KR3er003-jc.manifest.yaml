@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er003_000-jc.yaml, hash: 'sha256:5082409ac9de92c7d5345f588974d5281ac1814be003bfe3d0629127f9ec63fa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er003_000-jc.markers.yaml, hash: 'sha256:58dc75dcf41611dfa57fde423b9e2b78a869ad7992f9a1a4eefecf8541bfce5e'}
+  - {seq: 0, role: markers, filename: assets/KR3er003_000-jc.markers.yaml, hash: 'sha256:a72e702751b0c5d3864df695f6c0df456e9a3ee640d9e5fe4d5ebab89f4b0dcb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -530,4 +530,4 @@ table_of_contents:
   label: 火淫
   type: section
   level: 2
-hash: sha256:78ccaa41043124ca9039af349f6271793202727ab0b4cf73454b814ad53cc833
+hash: sha256:863f84db7a589e09dc5ca390f1e19316861bd60ae709a6618f28ca426bde0602
